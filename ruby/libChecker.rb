@@ -1,4 +1,5 @@
 require "json"
+require "shellwords"
 
 puts "Starting libChecker"
 
@@ -9,6 +10,7 @@ dataArray = []
 
 Dir["lib/*.mp3"].each do |file|
   path = file
+  system ("mv " + file.shellescape + " " + file.gsub(" ", "_"))
   name = file.split('/')[1].gsub('.mp3', '')
   dataArray.push({
     name: name,
