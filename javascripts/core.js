@@ -16,6 +16,10 @@ $.getJSON('json/soundFiles.json', function(data){
     });
     $('button.audio_trigger').click(function(){
       console.log(this);
+      var audioEl = $("div#"+this.id + " audio")[0];
+      audioEl.pause;
+      audioEl.currentTime = 0;
+      audioEl.play;
     })
   }, 5000)
 });
