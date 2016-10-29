@@ -1,0 +1,125 @@
+<soundfile>
+	<name>Bow_and_arrow</name>
+	<path>lib/Bow_and_arrow.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>cartoon_fall</name>
+	<path>lib/cartoon_fall.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Cartoon_Magic_Spell</name>
+	<path>lib/Cartoon_Magic_Spell.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Cave_1</name>
+	<path>lib/Cave_1.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Cave_2</name>
+	<path>lib/Cave_2.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Cave_Sounds</name>
+	<path>lib/Cave_Sounds.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Child_whispers_sound_effect</name>
+	<path>lib/Child_whispers_sound_effect.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Creepy_goblin_laughing_sound</name>
+	<path>lib/Creepy_goblin_laughing_sound.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Drop_Sword</name>
+	<path>lib/Drop_Sword.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Game_of_Thrones_Extended_Theme</name>
+	<path>lib/Game_of_Thrones_Extended_Theme.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Goblin_Sound</name>
+	<path>lib/Goblin_Sound.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Goblin_Sound_1</name>
+	<path>lib/Goblin_Sound_1.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Goblin_Sound_2</name>
+	<path>lib/Goblin_Sound_2.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Horse_Cart</name>
+	<path>lib/Horse_Cart.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Magic_sound_effect</name>
+	<path>lib/Magic_sound_effect.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Orc_Sound_Effect</name>
+	<path>lib/Orc_Sound_Effect.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Potion_Lab</name>
+	<path>lib/Potion_Lab.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Rat_Sound_Effects</name>
+	<path>lib/Rat_Sound_Effects.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Snoring</name>
+	<path>lib/Snoring.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Sword_clash</name>
+	<path>lib/Sword_clash.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Swords_Collide</name>
+	<path>lib/Swords_Collide.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Tavern_ambience</name>
+	<path>lib/Tavern_ambience.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>town_ambience</name>
+	<path>lib/town_ambience.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Wind_Waker_Theme</name>
+	<path>lib/Wind_Waker_Theme.mp3</path>
+</soundfile>
+
+<soundfile>
+	<name>Woodland_Ambiance</name>
+	<path>lib/Woodland_Ambiance.mp3</path>
+</soundfile>
+
