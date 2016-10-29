@@ -12,7 +12,7 @@ Dir["lib/*.mp3"].each do |file|
   name = file.split('/')[1].gsub('.mp3', '')
   dataArray.push({
     name: name,
-    path: file
+    path: file.gsub(" ", "_")
   })
 end
 
