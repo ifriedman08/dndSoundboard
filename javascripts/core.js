@@ -10,7 +10,7 @@ $.getJSON('json/soundFiles.json', function(data){
         <source src=` + obj.path + ` type="audio/mp3">
         </audio></div>`
       );
-      var button = $('<button class="audio_trigger" id="' + idx + '">' + obj.name + '</button>');
+      var button = $('<button class="audio_trigger" id="' + idx + '">' + obj.name.replace(/_/g, " ") + '</button>');
       $('body').append(audioDiv);
       $('body').append(button);
     });
